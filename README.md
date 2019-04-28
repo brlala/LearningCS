@@ -1,6 +1,10 @@
 # LearningCS
 This is a road plan for the transition into CS
 
+#### Bringing up to par before reading all these materials:
+-https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/
+
+
 ### 1. Getting the fundamentals right is important
 -CS50: Introduction to Computer Science from Harvard | edX
 
@@ -42,8 +46,6 @@ to do questions and post on Github
 -Mode Analytics SQL tutorial
 -Kimball's The Data Warehouse Toolkit
 
-#### Bringing up to par before reading all these materials:
--https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/
 
 
 #### Source:
