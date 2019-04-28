@@ -13,6 +13,7 @@ This is a road plan for the transition into CS
 ### Learning Algorithms
 -Introduction to Algorithms by MIT
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/
+
 -Algorithm specialization by Stanford
 https://www.coursera.org/specializations/algorithms
 
