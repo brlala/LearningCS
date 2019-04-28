@@ -42,8 +42,18 @@ to do questions and post on Github
 -Mode Analytics SQL tutorial
 -Kimball's The Data Warehouse Toolkit
 
-Source:
+#### Bringing up to par before reading all these materials:
+-https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/
+
+
+#### Source:
+
 https://old.reddit.com/r/cscareerquestions/comments/6278bi/my_journey_and_tips_29_gpa_at_a_noname_liberal/
+
 https://www.quora.com/What-is-better-Coursera-algorithms-specialization-InterviewBit-or-solving-on-online-judges/answer/Soham-Sinha-1
+
 https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms/answers/27366493
+
 https://code.likeagirl.io/thoughts-on-becoming-a-self-taught-software-engineer-c8d8e7bde704 (good for general experience)
+
+https://www.geeksforgeeks.org/
