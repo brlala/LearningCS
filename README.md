@@ -61,3 +61,5 @@ https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data
 https://code.likeagirl.io/thoughts-on-becoming-a-self-taught-software-engineer-c8d8e7bde704 (good for general experience)
 
 https://www.geeksforgeeks.org/
+
+https://github.com/ForrestKnight/open-source-cs
