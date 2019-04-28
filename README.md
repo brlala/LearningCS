@@ -21,5 +21,7 @@ https://www.coursera.org/specializations/algorithms
 -Introduction to Algorithm(CLRS)
 to do questions and post on Github
 
+-The Algorithm Design Manual by Steven S. Skiena 
+
 ### Taking part in competitions and assignments
 -Hackerearth, Hackerrank, Topcoder, Leetcode, Hackertrail
