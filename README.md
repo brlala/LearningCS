@@ -3,6 +3,7 @@ This is a road plan for the transition into CS
 
 #### Bringing up to par before reading all these materials:
 -https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/
+-Use MEAN stack, Docker, Amazon, TDD
 
 
 ### 1. Getting the fundamentals right is important
