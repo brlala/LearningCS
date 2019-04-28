@@ -52,14 +52,16 @@ to do questions and post on Github
 
 #### Source:
 
-https://old.reddit.com/r/cscareerquestions/comments/6278bi/my_journey_and_tips_29_gpa_at_a_noname_liberal/
+-https://old.reddit.com/r/cscareerquestions/comments/6278bi/my_journey_and_tips_29_gpa_at_a_noname_liberal/
 
-https://www.quora.com/What-is-better-Coursera-algorithms-specialization-InterviewBit-or-solving-on-online-judges/answer/Soham-Sinha-1
+-https://www.quora.com/What-is-better-Coursera-algorithms-specialization-InterviewBit-or-solving-on-online-judges/answer/Soham-Sinha-1
 
-https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms/answers/27366493
+-https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms/answers/27366493
 
-https://code.likeagirl.io/thoughts-on-becoming-a-self-taught-software-engineer-c8d8e7bde704 (good for general experience)
+-https://code.likeagirl.io/thoughts-on-becoming-a-self-taught-software-engineer-c8d8e7bde704 (good for general experience)
 
-https://www.geeksforgeeks.org/
+-https://www.geeksforgeeks.org/
 
-https://github.com/ForrestKnight/open-source-cs
+-https://github.com/ForrestKnight/open-source-cs
+
+-https://backdoorgraduteschooladmissions.quora.com/How-to-get-an-equivalent-of-a-CS-major-using-MOOCs
