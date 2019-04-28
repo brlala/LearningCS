@@ -34,12 +34,9 @@ to do questions and post on Github
 
 ### 7. Learning Scalability and System Designs(study materials and tips) 
 #### DS&A: (already included above)
--Leetcode
-
--Interview Cake
-
--the Algorithm Design Manual
-
+-Leetcode  
+-Interview Cake  
+-the Algorithm Design Manual  
 -Arden Dertat's list
 
 #### System Design:
