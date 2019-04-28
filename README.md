@@ -35,17 +35,23 @@ to do questions and post on Github
 ### 7. Learning Scalability and System Designs(study materials and tips) 
 #### DS&A: (already included above)
 -Leetcode
+
 -Interview Cake
+
 -the Algorithm Design Manual
+
 -Arden Dertat's list
 
 #### System Design:
 -High Scalability
+
 -System Design Primer
+
 -Hired in Tech
 
 #### SQL and data modeling: (optional)
 -Mode Analytics SQL tutorial
+
 -Kimball's The Data Warehouse Toolkit
 
 
