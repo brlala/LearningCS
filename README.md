@@ -4,12 +4,12 @@ Summary Roadplan:
 -> Programming (completed)   
 -> Computer Architecture  
 -> Algo (started)  
--> Math for CS (complete - Maths in Engineering) 
--> OS 
--> Networking 
--> Databases 
--> Languages and Compiler 
--> Distributed system
+-> Math for CS (complete - Maths in Engineering)  
+-> OS  
+-> Networking  
+-> Databases  
+-> Languages and Compiler  
+-> Distributed system  
 
 #### Bringing up to par before reading all these materials:
 -https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/  
