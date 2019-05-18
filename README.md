@@ -1,6 +1,6 @@
 # LearningCS
 This is a road plan for the transition into CS
-Summary Roadplan: 
+Summary Roadplan:  
 -> Programming (completed)   
 -> Computer Architecture  
 -> Algo (started)  
