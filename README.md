@@ -1,5 +1,15 @@
 # LearningCS
 This is a road plan for the transition into CS
+Summary Roadplan: 
+-> Programming (completed)   
+-> Computer Architecture  
+-> Algo (started)  
+-> Math for CS (complete - Maths in Engineering) 
+-> OS 
+-> Networking 
+-> Databases 
+-> Languages and Compiler 
+-> Distributed system
 
 #### Bringing up to par before reading all these materials:
 -https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/  
@@ -30,7 +40,7 @@ to do questions and post on Github
 ### 6. Taking part in competitions and assignments
 -Hackerearth, Hackerrank, Topcoder, Leetcode, Hackertrail  
 
-### 7. Learning Scalability and System Designs(study materials and tips) 
+### 7. Learning Distributed Systems design(study materials and tips) 
 #### DS&A: (already included above)
 -Leetcode  
 -Interview Cake  
@@ -54,4 +64,5 @@ to do questions and post on Github
 -https://www.geeksforgeeks.org/  
 -https://github.com/ForrestKnight/open-source-cs  
 -https://backdoorgraduteschooladmissions.quora.com/How-to-get-an-equivalent-of-a-CS-major-using-MOOCs  
--https://dzone.com/articles/top-5-data-structures-and-algorithm-online-courses
+-https://dzone.com/articles/top-5-data-structures-and-algorithm-online-courses  
+-https://teachyourselfcs.com/  
